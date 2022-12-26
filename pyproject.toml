@@ -13,8 +13,6 @@ toml = "^0.10.2"
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
 black = {version = "^22.10.0", allow-prereleases = true}
-PyAudio = "^0.2.12"
-matplotlib = "^3.6.2"
 isort = "^5.11.4"
 
 [build-system]
